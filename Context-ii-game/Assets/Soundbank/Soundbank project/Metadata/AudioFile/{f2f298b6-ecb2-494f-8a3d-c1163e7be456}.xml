@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{f2f298b6-ecb2-494f-8a3d-c1163e7be456}">
+        <property name="assetPath">
+            <value>Laser_rapidfire.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.7142857142857142</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{a760eea6-6007-4999-8637-54da0a4af55b}</destination>
+        </relationship>
+    </object>
+</objects>

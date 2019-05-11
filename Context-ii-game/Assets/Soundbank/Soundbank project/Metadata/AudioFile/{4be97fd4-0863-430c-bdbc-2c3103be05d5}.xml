@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{4be97fd4-0863-430c-bdbc-2c3103be05d5}">
+        <property name="assetPath">
+            <value>Bertus_damage_2.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.8571428571428571</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{a760eea6-6007-4999-8637-54da0a4af55b}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{381e9972-8abf-402c-aa20-14e46eefbe29}">
+        <property name="assetPath">
+            <value>Rat_Conversion_3.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.65625850340136049</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{a760eea6-6007-4999-8637-54da0a4af55b}</destination>
+        </relationship>
+    </object>
+</objects>

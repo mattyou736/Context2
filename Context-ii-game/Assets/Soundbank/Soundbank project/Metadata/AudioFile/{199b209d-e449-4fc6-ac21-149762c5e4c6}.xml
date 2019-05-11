@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{199b209d-e449-4fc6-ac21-149762c5e4c6}">
+        <property name="assetPath">
+            <value>Rat_death_1.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.42857142857142855</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{a760eea6-6007-4999-8637-54da0a4af55b}</destination>
+        </relationship>
+    </object>
+</objects>

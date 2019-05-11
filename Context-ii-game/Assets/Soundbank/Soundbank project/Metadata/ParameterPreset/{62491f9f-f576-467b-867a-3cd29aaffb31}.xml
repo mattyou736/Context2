@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{62491f9f-f576-467b-867a-3cd29aaffb31}">
+        <property name="name">
+            <value>Third area</value>
+        </property>
+        <relationship name="folder">
+            <destination>{c3d3c364-cf86-45a6-83e5-1dcbbc094556}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{5f65ada9-4604-4b92-9819-f50bcb78b42c}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{5f65ada9-4604-4b92-9819-f50bcb78b42c}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>
